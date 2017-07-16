@@ -1,0 +1,1 @@
+java -jar cg.jar
